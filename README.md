@@ -21,7 +21,7 @@ This repository is packed with:
 ### 1. Clone this template 
 Using `create-next-app`
    ```bash
-   pnpm create next-app -e https://github.com/asyarbre/nextjs-ts-starter.git nextjs-starter
+   pnpm create next-app -e https://github.com/asyarbre/nextjs-ts-starter nextjs-starter
    ```
 
 ### 2. Install dependencies
